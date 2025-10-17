@@ -1,0 +1,932 @@
+gangguan,solusi
+NAPA - Cadmatic - Nesting,Sudah selesai 
+Network Access,Pembersihan Ruang verifikasi
+Instalasi Aplikasi,Installasi os dan microsoft office beserta lisensinya
+Instalasi Aplikasi,Setting laptop baru dan instalasi aplikasi standart
+Gangguan Aplikasi Pendukung,install malwarebytes dan scan virus
+Network Access,"Kena blok , karena kena virus & sudah diclean"
+Absensi,silahkan diperiksa kembali
+Gangguan Storage,Pemasangan hdd dan penambahan kabel sata
+Network Access,update windows karena driver port RJ45 belum terupdate dipart baru
+Aplikasi Office/Perkantoran,Aktivasi office
+Network Access,Tambah SSID HotspotPal
+Gangguan CPU,"Mengatur settingan display monitor
+"
+Email,"	masalah:
+setelah di cek bahwa benar storagenya hampir habis,
+
+solusi:
+telah di increase storage email.
+silahkan di cek kembali"
+Email,"masalah:
+setelah di cek bahwa benar storagenya hampir habis,
+
+solusi:
+telah di increase storage email.
+silahkan di cek kembali"
+Gangguan CPU,Penggantian PSU
+NAPA - Cadmatic - Nesting,Penyetinggan aster
+Instalasi Aplikasi,penginstallan pdf creator
+Absensi,bisa dicek kembali 
+Email,"problem:
+storage email penuh,
+
+solusi:
+email sudah di increase.
+
+mohon di cek kembali, terima kasih"
+Network Access,Setting PC
+Email,"p: email penuh
+s: sudah di increase storage email 
+mohon di cek kembali, terima kasih"
+Instalasi Aplikasi,penginstalan aplikasi apex beserta lisensinya. untuk aplikasi lainnya bisa ditanyakan ke pihak rnd karna it tidak tahu lisensinya. terimakasih
+Gangguan Kelistrikan / Power Supply,Setelah dilakukan pengechek an tidak ada masalah pada cpu. mungkin pc mati disebabkan karena kabel power yang mati. terimakasih
+Absensi,silahkan dicek kembali 
+Instalasi Aplikasi,"Penginstallan cadmatic hull dan e-browser beserta lisensinya
+"
+Network Access,Jumlah tarikan kabel LAN banyak dan tingkat kesulitan lokasi kami menyarankan menggunakan jasa vendor
+Gangguan CPU,pengantian PSU
+Gangguan CPU,Pengantian PSU
+Email,"problem: 
+- email inbox kosong semua
+
+mitigasi:
+- saya coba kirim ke email dinantara_mega_bintang@pal.co.id. tidak masuk ke email inbox tapi masuk ke email delete items
+- saya cek konfigurasi nya ternyata ada konfigurasi bahwa semua email inbox masuk ke delete items
+
+solusi: 
+- sudah saya delete konfigurasi tersebut.
+- (dan jika user tidak merasa melakukan konfigurasi tersebut maka sebaiknya user mengupdate  password email tersebut.)
+
+terima kasih"
+Email,"Done, 
+sudah dilakukan penambahan storage"
+Aplikasi Office/Perkantoran,Pengechek an sabungan kabel pada printer
+ERP (IM4),silahkan dicek kembali
+Gangguan OS,"Pembersihan slot RAM, dan SSD"
+Gangguan CPU,Penarikan port DP pada  port VGA
+Email,"karena tidak bisa login, kita update passwordnya jadi:
+Ptpal@123
+
+nb: 
+- mohon untuk mengupdate lagi pwd nya agar aman
+- jika salah login 3x maka harus nunggu 10menit, untuk menghindari brute force
+terima kasih"
+Aplikasi Office/Perkantoran,"dari file word ke libre memang sering berantakan, karna perbedaan format dan mungkin juga ada beberapa fitur di word yang tidak ada pada libre. solusinya buka file menggunakan word atau jika tidak ada bisa menggunakan WPS Office"
+Instalasi Aplikasi,"Penginstallan e-browser beserta lisensinya, namun pada des-cae-148 untuk lisensinya belum bisa karna bergantian dengan yang lain"
+NAPA - Cadmatic - Nesting,Sudah di restore pada server di proyek w0304
+Aplikasi Office/Perkantoran,"Untuk lisensi sudah ada, mungkin muncul peringatan seperti digambar saat ada yang sama mengakses software tersebut, dan harus bergantian. karna lisensi untuk PATRAN hanya untuk 1 user."
+Network Access,untuk permohonan akses wifi harap mengisi form dari div TI
+Gangguan CPU,"Setelah dilakukan pengechek an tidak ada kerusakan pada hardware, hanya saja ada masalah pada kabel power"
+Gangguan OS,Setelah dilakukan pengechek an hanya putuh pembersihan RAM dan memastikan ram terpasasng dengan benar
+Network Access,"PC terdeteksi menggunakan OS windows 7. untuk koneksi di PAL, OS windows minimal pakai windows 10 tolong di update OS di PC tersebut"
+Network Access,"Tidak ada ganguan pada Access Point, apabila masih belum bisa HP im4 harap dibawa ke Div TI untuk dilakukan pemeriksaan"
+Network Access,Lan card laptop rusak
+Absensi,silahkan dicek kembali
+NAPA - Cadmatic - Nesting,Projects sudah tercreated di pal-cos1 V:
+Gangguan OS,"kemarin sudah sempat di chek untuk unit ada bit lokernya kalau mau cobak safe mood. solusinya bisa langsung ditanyakan pada vendor saat pembelian barang
+"
+Gangguan CPU,"Setelah dilakukan pengechek an kerusakan disebabkan karna daya pada power suplay kurang, sehingga dibutuhkan untuk penggantian PSU
+"
+Instalasi Aplikasi,install drive printer
+Gangguan Aplikasi Pendukung,"penyebab error bisa dari banyak nya file pada folder C, jika benar masalah disebabkan karna banyak nya file pada Folder C maka disarankan untuk menghapus file yang tidak penting atau memindahkan pda folder lain"
+ERP (IM4),"masukkan progress di level 4 agar dashboardnya bisa ter update 
+jika masih ada yang di tanyakan silahkan hubungi Mbak Dhina"
+Instalasi Aplikasi,"Pengenstalan aplikasi semua yang tertera, tetapi untuk ebrowser dan napa belum mendapatkan akses lisensi
+"
+Aplikasi Office/Perkantoran,Pensettingan pada pengaturan office
+Email,Receiver sudah bisa menerima & menggirim email
+Network Access,penggantian kabel lan
+Gangguan Aplikasi Pendukung,"Setelah dilakukan pengechek an, kerusakan terdaoat pada motherboardnya. dan harus dilakukan pengantian"
+Gangguan CPU,"join domain, rename device id, dan install aplikasi standart"
+Gangguan CPU,"sudah kami coba untuk penyetinggan pada bios ternyata harus mengechek kedalam pc, dan pc riskan jika dibongkar. kami sarankan untuk dibawa langsung ke service center"
+NAPA - Cadmatic - Nesting,"sudah dilakukan instalasi untuk e-browsing. 
+bisa di ambil di mapping
+"
+NAPA - Cadmatic - Nesting,Done by IT staff Sekar
+Aplikasi Office/Perkantoran,install aplikasi ansys 2024 beserta lisensi
+Absensi,silahkan di cek kembali
+Gangguan CPU,"Penggantian PSU, windows update dan setting jaringan"
+Absensi,Silahkan di cek kembali
+ERP (IM4),Silahkan di cek kembali
+Gangguan CPU,"cleaning file pc, jika masih lemot bisa dicoba login ke pc lain, jika di pc lain tetep lemot berarti masalah terletak pada usernya"
+Gangguan CPU,Setting pada controlpanel dan services
+ERP (IM4),"salah 1 line timesheet sudah di hapus, silahkan di cek kembali"
+Network Access,penarikan kabel 2 titik
+Gangguan Aplikasi Pendukung,windows update
+Aplikasi Office/Perkantoran,"install zwcad berserta lisensi, wps office, update winsows untuk monitor 2"
+Aplikasi Office/Perkantoran,"uninstall & Pelepasan lisensi aster pada des-cae-50, dan dipindahkan pada des-cae-86"
+Network Access,User siapkan pcnya masing2 bisa nyala & konek an kabel jaringan baru dibantu setting jaringan
+Gangguan CPU,Setelah dilakukan pengechekan kerusakan terdapat pada powersupplay dan motherboard
+Gangguan CPU,setelah dilakukan pengechek an tidak ada masalah pada pc dan pc berjalan normal. sepertinya hdmi bermasalah
+Gangguan CPU,"Setelah dilakukan pengechekan, kerusakan terjadi karena driver vga yang korup solusinya diinstall ulang windows"
+Gangguan OS,"settingan pada disply monitor
+"
+Gangguan CPU,"Update windows serta cleaning pc
+"
+Network Access,"Siapkan PC bisa nyala dan siapkan kabel jaringannya
+** Kita bantu setting jaringan & tunggu antrian***"
+Gangguan CPU,Setelah dilakukan pengechek an kerusakan terdapat pada vga 
+Network Access,"Silahkan kondisikan PC bisa nyala dan tancapkan kabel jaringan
+"""""" Akan dibanti settingnya"""
+Network Access,"siapkan PCnya, bisa hidup & koneksikan kabel jaringan
+** kita bantu setting koneksinya***"
+ERP (IM4),untuk cuti backdate hanya bisa di buatkan oleh manager/atasan langsung
+Gangguan Storage,install ulang windows dan install aplikasi standart
+ERP (IM4),"nomor WO 8-WO204531128535 sudah tidah ada datanya
+nomor WO 8-WO240603129574 sudah kami close"
+Gangguan Aplikasi Pendukung,"mohon maaf sebelumnya, untuk pembeliian lisensi office diserahkan kepada user masing masing
+"
+Network Access,"jaringan aman, perlu update windows untuk menyambungkan ke jaringan pal"
+Absensi,silahkan mencari lokasi dengann jaringan yg lebih baik
+Network Access,Jaringan dan AP sudah nyala kembali untuk di daerah power house
+Gangguan CPU,"setelah dilakukan pengechek an ternyata kipas yang berada pada chesing retak sehinggak longgar dan tertabrak cessing pc saat berputar, sehinggak menyebabkan bunyi"
+Gangguan Aplikasi Pendukung,"Mensetting kedua device yang digunakan untuk aster, setelah itu restart komputer dan run aster kembali"
+ERP (IM4),ID tersebut telah terbuat PR 
+Email,"sudah saya increase storage emailnya, 
+tapi mohon maaf jika increase nya sedikit, karena menggingat storage server nya tinggal sedikit(masih menunggu untuk pengadaan storage).
+mohon pengertiannya, Terima Kasih"
+Instalasi Aplikasi,Setelah dilakukan pengechek an ternyata hdd tidak terdeteksi. oleh karna itu dilakukan pengantian hdd dan penginstallan os serta aplikasi standart
+Email,"Berdasarkan keterangan pada gambar, file ditolak oleh server email penerima (@anschuetz.com) karena dianggap melebihi kapasitas. Umumnya, beberapa perusahaan memang membatasi ukuran lampiran antara 10–25 MB.
+Sebagai alternatif, saya sarankan file dikirim melalui link Google Drive saja, Pak 🙏"
+Gangguan CPU,"setelah dilakukan pengechek an terdeteksi banyak nya malware yang menyebabkan pc lemot. maka dari itu kita lakukan install ulang windows, beserta instalasi aplikasi standart."
+Gangguan CPU,"setelah dilakukan pengechek an monitor mati disebabkan karna ram yang kotor, sehingga kami lakukan pembersihan ram. dan komputer kembali normal.
+"
+Instalasi Aplikasi,Installasi nitro dan ifs 9 
+Gangguan Aplikasi Pendukung,Raname hostname komputer 
+Network Access,port pada switch penuh jadi untuk penambahan tarikan kabel LAN perlu penambahan switch
+Instalasi Aplikasi,Dilakukan penginstallan office 2019 
+Gangguan Aplikasi Pendukung,Akses server sudah bisa di gunakan kembali
+Email,"Sudah di upgrade jadi 25gb, 
+(mohon maaf tidak bisa menambah kapasitas sesuai request, di karenakan sisa storage server tinggal sedikit, menyesuaikan dengan yang lain)
+terima kasih"
+Network Access,setting file sharing
+Gangguan Aplikasi Pendukung,"setelah dilakukan pengechek an tidak ada masalah pada aplikasi dan bisa menampilkan di kedua monitor. hanya saja
+ untuk settingan keyboard dan mouse nya yang harus diganti"
+Absensi,bisa dicek kembali
+Instalasi Aplikasi,"Install os, install aplikasi standart, setting jaringan, dan vnc"
+Absensi,"jika telah tiba di PT PAL langsung melakukan absensi, karena jika terdapat case seperti ini lagi tidak dapat diperbaiki"
+Gangguan I/O Peripheral,Penggantian Battrai CMOS
+Absensi,Silahkan di cek kembali ( refresh terlebih dahulu)
+Instalasi Aplikasi,sudah ada exel 2010
+Absensi,"silahkan dicek kembali, dan silahkan bawa gadget ke IM4 untuk dilakukan pengecekan "
+Instalasi Aplikasi,Memasukkan Lisensi Pada Office
+Instalasi Aplikasi,"untuk laptop hanya settingan biasa tidak ada proteksi tambahan, untuk proteksi tambahan diserahkan pada user tersendiri"
+Instalasi Aplikasi,"Setting jaringan, install aplikasi standart, dan join domain
+"
+ERP (IM4),timesheet sudah di draft silahkan jika ingin menghapus atau mengubah line 
+Email,Sudah di tambahkan kapasitas storagenya
+Email,"Sudah di buatkan email nya
+silahkan untuk di cek kembali
+terima kasih"
+Email,"sudah dibuatkan email.
+silahkan di check, 
+Terima kasih"
+Gangguan CPU,"setelah dilakukan pengechek an tidak ada masalah pada hardware, masalah  terletak pada software yang membutuhkan install ulang windows, install aplikasi standart, dan juga penyetingan jaringan"
+Gangguan Storage,Hapus backup sistem karena memakan ruang penyimpanan yang begitu besar
+Gadget IM4,done
+Gangguan CPU,me restart password menggunakan PCUnlocker
+Absensi,sudah disesuaikan sesuai dengan print dan stampel kam
+ERP (IM4),dapat dicoba kembali
+Instalasi Aplikasi,Instal software aplikasi Zwcad dan WPS Office
+Aplikasi Office/Perkantoran,"1. Instal software foxit pdf di komputer DES-CAE-184 & DES-CAE-187
+2. instal excel di DES-CAE-187"
+Email,"Sudah dilakukan penambahan storage, 
+silahkan di check kembali
+terima kasih"
+Gangguan CPU,"setelah dilakukan pengechek an tidak ada kerusakan pada hadware, namun terdapat kerusakan pada OS. sehingga dibutuhkan install ulang pada PC"
+Instalasi Aplikasi,install aplikasi ebrowser beserta lisensinya
+Gangguan Aplikasi Pendukung,"setelah dicek nitro membutuhkan lisensi, installasi wps office sebagai penganti nitro pdf"
+Email,"terjadi error karena email belum di buat, 
+ini sudah di buatkan
+silahkan di coba terima kasih"
+Gangguan OS,"Install windows 11 beserta update, instal aplikasi trandmicro, 365, nitro beserta lisensinya"
+Instalasi Aplikasi,"Install ualang windows 10 dengan lisensi, install aplikasi standart, dan setting jaringan"
+Network Access,Setting ulang PC
+NAPA - Cadmatic - Nesting,"sudah dilakukan pengechek an pc, join domain, install aplikasi standart dan penginstalan ebrowser beserta lisensi"
+Instalasi Aplikasi,"Installasi Windows 11 5 NUC, pengistallan aplikasi standart desain dan windows update"
+Instalasi Aplikasi,"setting laptop baru, windows update, install aplikasi standart desain "
+Instalasi Aplikasi,Penginstallan aplikasi Blander
+Instalasi Aplikasi,penginstallan e-browser beserta lisensi
+Absensi,data perizinan sudah di sesuaikan oleh kam
+Absensi,lain kali mohon dipastikan data attendance sudah tercord dulu baru memulai aktivitas
+Absensi,"data attendance sudah sesuai, tidak bisa CI karena hari sebelumnya tidak CO"
+Absensi,"silahkan di cek kembali, silahkan di force close apabila mengalami kendala yang sama"
+NAPA - Cadmatic - Nesting,Sudah disolusi silahkan klik license dan kemudian ok ketika menggunakan 
+NAPA - Cadmatic - Nesting,Remote langsung ke PC terkait
+Email,"silahkan di coba login lagi
+terima kasih"
+Instalasi Aplikasi,Penginstallan WPS office
+Akses Internet,Setting vlan
+Network Access,update windows
+Absensi,"silahkan dicek kembali. apabila terjadi hal serupa kembali, silahkan bawa gadget im4 ke TI untuk dilakukan pengecekan"
+Gangguan Aplikasi Pendukung,"pembersihan folder temp, disk cleaup, kemudian reset laptop dan penginstallan driver printer"
+Aplikasi Office/Perkantoran,Penginstallan driver printer dan mensetting pengaturan printer
+Gangguan OS,mengubah settingan pada control panel power&sleep menjadi never
+Gangguan CPU,setelah dilakukan pengechak an terdapat kerusakan pada power supply dan juga motherboard
+Instalasi Aplikasi,memasukkan lisensi zwcad
+Network Access,Setting IntraPal
+Gangguan Storage,"Setelah dilakukan pengechek an terdapat kerusakan pada HDD, dan dilakukan pengantian oleh user"
+Network Access,setting vlan
+Network Access,Setting jaringan komputer
+Network Access,"Kabel backbone FO, habis dimakan tikus. dilakukan splashing ulang"
+Gangguan CPU,"setelah dilakukan pengechek an tidak ada masalah pada komputer dan berjalan normal, hanya saja saat awal di nyalakan keluar debu"" dari kipas komputer. solusinya dilakukan pembersihan pada komputer dan disk"
+Gangguan OS,"Setelah dilakuka pengechek an tidak ada masalah pada hdd maupun ssd, hanya banyaknya debu pada sekitar kabel yang menyebabkan hdd & ssd tidak terbaca. solusnya dilakukan pembersihan perangkat dan disk"
+Instalasi Aplikasi,"install ualang windows, installasi aplikasi standart, dan pebersihan disk"
+Aplikasi Office/Perkantoran,installasi e-browser dan wps office
+Gangguan OS,"Setelah dilakukan pengechek an ternyata banyaknya file sampah pada komputer, solusinya dilakukan disk cleanup"
+Gangguan OS,"install ulang windows 10, install aplikasi standart, diskclean up PC"
+Instalasi Aplikasi,"sudah konfrimasi ke user bahwa kebijakan baru untuk key office diserahkan ke user atau divisi masing"""
+Absensi,"Hal itu terjadi karena setelah membuat cuti, tetap menekan tombol CO saja"
+Absensi,"Hal itu terjadi karena setelah terdapat dinas, tetap menekan tombol CO saja. Apabila terjadi seperti itu lagi, silakan tetap menekan tombol CO saja."
+Email,"di abaikan saja pesannya, 
+sepertinya phising karena ketika di lakukan check alamat email pada server , tidak di temukan nama email tersebut"
+NAPA - Cadmatic - Nesting,"Projek 1 n 2 di R, yang 3 di V"
+NAPA - Cadmatic - Nesting,Telah disolusi Sekar TI
+Aplikasi Office/Perkantoran,done uninstall cadmatic
+Absensi,"mohon untuk datang lebih, untuk persiapan absensi"
+Absensi,"silahkan di cek kembali, mohon cek reporting setelah absen"
+Instalasi Aplikasi,Instal WPS Office
+Email,"Done, silahkan di check kembali"
+Instalasi Aplikasi,"Uninstal software ansys, karena sudah tidak digunakan"
+Gangguan OS,"1. Instal ulang windows
+2. Instal aplikasi standar office.
+3. Setting Jaringan"
+Gadget IM4,melakukan restart / check date & time nya
+Gangguan Storage,"setelah dilakukan pengecek an tidak ada masalah pada hadware maupun softwarenya, hanya dilakukan disk cleanup, windows update"
+Absensi,"Silahkan membuat Time off untuk tanggal yang tidak hadir
+status akan berubah otomatis saat time off sudah di approve"
+Instalasi Aplikasi,"Install office, nitro pdf, dan chrome (Instal aplikasi standar office)"
+Instalasi Aplikasi,"Setting 7 komputer baru sesuai standar komputer desain.
+- Instal aplikasi standar desain
+- join domain
+- create partisi harddisk
+- update windows
+- setting internet
+
+Untuk penggunaan komputer perlu pengajuan form hak akses user"
+Network Access,"kabel LAN putus digigit tikus, penariakan kabel LAN baru"
+Absensi,data CO tgl 20 sudah sesuai
+Gangguan CPU,"1. Penggantian motherboard yang rusak
+2. Pengecekan komputer hasil oke dan lancar."
+Instalasi Aplikasi,login sebagai admin untuk setting konktivitas headseat bluetooth
+Gangguan CPU,dilakukan install ulang windows
+Instalasi Aplikasi,"- Instal Autodesk 3DS Max.
+- Proses lama karena pengecekan lisensi dan installer-nya
+"
+ERP (IM4),sudah melakukan konfirmasi melalui whatsapp
+Absensi,Data sudah sesuai dan tidak ada yang salah pada tgl 19/06/2025
+Gangguan CPU,pergantiian ssd 
+Gangguan CPU,"setelah dilakukan pengechek an kerusakan terjadi pada CPU, namun untuk unit dibawa terlebih dahulu oleh user."
+Instalasi Aplikasi,Instal driver printer
+Instalasi Aplikasi,Instal visioo
+Gangguan OS,"1. Setelah dilakukan pengecekan, kerusakan terdapat pada power supply dan perlu dilakukan penggantian oleh user.
+2. Penggantian Power Supply, hasil tes oke."
+Absensi,"Silahkan di cek kembali, apabila terdapat error seperti pada pada gambar, silahkan force close aplikasi dan pastikan internet sudah terhubung dengan im4Brain "
+Gangguan OS,"1. Untuk backup data tidak bisa dilakukan karena penyimpanan SSD bitlocker aktif dan perlu key... (sudah diberikan key tapi tetap tidak bisa)
+2. Pihak IT menyarankan user service di service center HP. Karena pemulihan bit locker dan pengecekan perangkat lebih detail."
+Email,"Silahkan di coba kembali.
+Terima  Kasih"
+Instalasi Aplikasi,Instal software Ansys
+Network Access,Pindah jalur power supply listrik
+Network Access,1. Penggantian akses user sesuai dengan yang diminta
+Absensi,"Untuk cuti, dinas dan sakit status akan berubah otomatis saat dokumen sudah approve. "
+Absensi,"hal ini disebabkan karena personel membuat cuti/dinas, jika terjadi case seperti ini lagi silahkan untuk tetap melakukan absensi, nanti akan terecord check out"
+Gangguan CPU,"1. Update Windows
+2. Disk Clean Up
+3. Clear cache"
+Network Access,kabel LAN putus digigit tikus
+Absensi,silahkan di periksa kembali
+Instalasi Aplikasi,"1. Setup firewall pc
+2. Menyesuaikan koneksi
+3. Test done"
+Absensi,"setelah absen pastikan reporting telah sesuai, jika terdapat case seperti ini lagi tidak dapat diperbaiki"
+Gangguan OS,"1. Setelah dilakukan pengecekan kerusakan pada SSD dan perlu dilakukan penggantian.
+2. Penggantian SSD oleh user
+3. Instal Win 10 beserta aplikasi standar office"
+ERP (IM4),WO telah didelete silahkan di periksa kembali
+Instalasi Aplikasi,"1. Untuk instal microsoft office perlu lisensi.
+2. komunikasi dengan user, user tidak memiliki lisensi
+3. pihak it memberikan opsi untuk install WPS office free."
+Email,"setelah dilakukan pengecekan, 
+Storage sudah d tambah"
+Absensi,"Untuk data tanggal 5, mohon dapat dicek kembali. Sementara untuk tanggal 2–4, silakan koordinasikan dengan tim HCM."
+Gangguan CPU,"1. Komputer dibawa user ke-TI. Dilakukan pengecekan tidak ada masalah apapun.
+2. Problem ternyata ada di user yang salah menancapkan kabel HDMI... harusnya di VGA card nya bukan di VGA Onboard"
+Network Access,Setting jaringan di PC user
+Aplikasi Office/Perkantoran,Instal office excel 2010
+Gangguan CPU,"disk clean up PC, peng installan exel dan pdf creator"
+ERP (IM4),"Silakan dicek kembali. Apabila kejadian serupa terjadi lagi, mohon segera menghubungi ext IM4: 3512 pada hari yang sama."
+Absensi,lain kali mohon untuk cek reporting setelah absen
+Email,sudah dilakukan penambahan storage email
+Absensi,"Silahkan di cek kembali, mohon untuk datang lebih awal untuk spare waktu CI "
+Instalasi Aplikasi,Instal office excel 2010 di komputer des-cae-191 & des-cae-131
+Network Access,setting ulang
+Absensi,"Silahkan di cek kembali, lain kali mohon di cek ke reporting untuk memastikan data sudah terecord"
+Network Access,perlu pengadaan switch distribusi baru karena switch yg terpasang adalah switch lama
+Email,kapasitas storage sudah di increase
+Absensi,"hal ini terjadi karena personel terdapat cuti/dinas, seharusnya personel tetap melakukan absensi, karena absensi akan tetap terecord check out."
+NAPA - Cadmatic - Nesting,Telah di solve oleh Sekar Divisi TI 
+Aplikasi Office/Perkantoran,Install Nitro PDF
+Instalasi Aplikasi,1. Instal ulang cad hull
+Instalasi Aplikasi,Instal ulang ebrowser
+NAPA - Cadmatic - Nesting,Telah di solusi Sekar divisi TI
+Gangguan Aplikasi Pendukung,"Setelah dilakukan pengecekan, NAPA tidak bisa dijalankan karena akun user belum tekoneksi ke drive mapping napa (n:/)."
+Absensi,"confirmed not spoofing artinya dikonfirmasi bukan spoofing,
+jadi sudah di konfirmasi bahwa tidak ada pelanggaran yang dilakukan"
+Instalasi Aplikasi,Instal ms office excel 2014 trial dan WPS office
+Gangguan Aplikasi Pendukung,"Setting email, format file hanya bisa dibuka dengan email outlook"
+Instalasi Aplikasi,Instal Office excel 2010 versi trial dan instal WPS Office di komputer DES-CAE-184 & DES-CAE-187
+Gangguan CPU,pengantian vga
+Network Access,crimping kabel LAN dan setting jaringan di PC
+Network Access,setting ulang jaringan di PC
+Network Access,setting jaringan
+Gangguan CPU,"1. Setelah dilakukan pengecekan kerusakan bukan pada komputer, tapi pada kabel power monitor.
+2. Perlu dilakukan penggantian kabel power monitor"
+Network Access,setting ulang jaringan
+Gangguan CPU,"update windows, pembersihan memory, dan juga pengecek an kerusakan pada memory"
+Network Access,reboot perangkat switch distribusi 2
+Network Access,"Nip belum terdaftar untuk konek ke HotspotPAL, harap menghubungi PIC TI div. Desain (mas Aldie) untuk melakukan pendaftaran HotspotPAL. Trims"
+Network Access,Setting ulang credentials
+Gangguan CPU,"1. Dilakukan penggantian kabel power pada motherboard.
+2. HDD tidak terbaca, dilakukan pengecekan HDD dan kondisi kesehatan HDD 70%.
+3. Penggantian HDD
+4. Instal windows beserta aplikasi standar office
+5. Update Windows
+6. Backup file harddisk lama ke baru dan sebaliknya.
+
+"
+Instalasi Aplikasi,"1. Aplikasi libre sudah terinstal di 3 komputer tsb.
+2. Untuk office 2021 sudah expired
+3. instal excel 2010 versi trial"
+NAPA - Cadmatic - Nesting,"telah di restore, silahkan dichek di cadmaticrestor2"
+Instalasi Aplikasi,"1. Email tidak bisa dibuka karena file email hilang
+2. setting ulang email
+3. cek, hasil oke"
+Network Access,sisa kabel telepon dan masih aktif
+Email,"done, Storage telah di update"
+Email,"Done, silahkan untuk di cek kembali storagenya
+terima kasih"
+Gangguan OS,"reset file exploler, disable startup pada task manager"
+Gangguan OS,"1. Aktivasi windows dengan key secara online
+2. instal ulang pdfsam"
+Gangguan CPU,"1. Setelah dilakukan pengecekan, kerusakan terdapat pada power supply dan perlu dilakukan penggantian.
+2. Penggantian power supply oleh user.
+3. Proses penyelesaian lama dikarenakan menunggu power supply pengganti dari user"
+ERP (IM4),nomer memo tersebut sudah di delete karena tidak muncul pada tampilan depan
+NAPA - Cadmatic - Nesting,Telah disolusi oleh Alifia Divisi TI
+Instalasi Aplikasi,Install WPS office dan excel 2010 trial
+NAPA - Cadmatic - Nesting,"1. Dari sisi aplikasi tidak ada masalah.
+2. Permasalahan pada gambar project yang belum update"
+Network Access,Permintaan user untuk di close
+Gangguan Storage,"Dilakukan pengecekan pada HDD, HDD sudah tidak bisa terdeteksi... Maka dari itu tidak bisa dilakukan backup data"
+ERP (IM4),sudah dihubungi melalui ext
+Gangguan OS,Instal ulang laptop beserta aplikasi standard office
+Aplikasi Office/Perkantoran,Install office trial
+Network Access,"converter type to lan tidak berfungsi, harap diganti dengan yang baru. trims"
+NAPA - Cadmatic - Nesting,Perbaikan sistem windows dll oleh Alifia TI
+Instalasi Aplikasi,Instal cad hull 2024
+Instalasi Aplikasi,"Instal aplikasi solidworks beserta lisensinya
+"
+Gangguan Aplikasi Pendukung,"1. Untuk windows 10 keatas kesulitan sharing printer karena windows security.
+"
+NAPA - Cadmatic - Nesting,Telah disolusi Alifia TI
+Email,"buka browser:
+
+- url: exchange.pal.co.id
+- Domain\user name: pal\muh_jamali
+- Password: (isi password login SSO, atau yang sering diapakai login IM4)
+
+Terima Kasih"
+NAPA - Cadmatic - Nesting,Sudah update normal kembali
+NAPA - Cadmatic - Nesting,Sudah terinstall dan bisa digunakan 
+Email,"(habis ada maintanance)
+Silahkan dicoba login kembali.
+Terima Kasih"
+Network Access,setting LAN
+Gangguan OS,"1. Disk Clean Up 
+2. Update windows secara online"
+Instalasi Aplikasi,Instal Ms.Office visio 2021 versi trial
+Network Access,Rekondisi koneksi kabel utp ke pc user
+Email,sudah di tambahkan quota storage email
+NAPA - Cadmatic - Nesting,Sudah kami sediakan di mapping R
+Instalasi Aplikasi,Instal WPS office di komputer DES-CAE-131 & DES-CAE-191
+Gangguan Aplikasi Pendukung,Instal apliaksi open image
+Aplikasi Office/Perkantoran,Instal office 2016 beserta aktivasi lisensinya
+Network Access,menarik kabel utp ke pc baru bengkel Palettizing noiaga
+Instalasi Aplikasi,"Untuk aktivasi office dibutuhkan lisensi.
+User sudh dihubungi terkait lisensi, jika belum ada bisa dibelikan terlebih dahulu."
+Instalasi Aplikasi,"problem : zwcad 2023 sering error.
+solusi : instal ulang zwcad dan disk clean up"
+Absensi,Kelalaian Personal
+Absensi,Disarankan disaat presensi untuk login SSO. agar tracking log GPS bisa ke record.
+Gangguan CPU,"1. Setelah dilakukan pengecekan, VGA dalam kondisi rusak.
+2. Komputer bisa digunakan tanpa menggunakan VGA "
+Email,sudah di increase storage 
+Instalasi Aplikasi,Instal aplikasi rhinocerous
+Network Access,Penarikan telah dilakukan tanggal 21 Juni 2025
+Network Access,"PC sudah dapat IP LAN PAL, tapi tidak bisa akses internet krn ke blok firewall"
+Absensi,dapat diperiksa kembali
+Instalasi Aplikasi,"Untuk penggunaan aplikasi cadmatic outfitting, user bisa copy file cad out di mapping Z://cadmatic"
+Instalasi Aplikasi,"- Setting komputer sesuai dengan standar desain
+- untuk akses E-Browser perlu pengajuan memo ke div desain dan tembusan div TI, serta pengajuan form hak akses user."
+Absensi,"attandance hari ini statusnya tepat waktu, jika ingin diperbaiki lokasinya silahkan ke ruangan IM4"
+Absensi,"jika masih tetap di luar area PT PAL, silahkan membawa HP IM4 ke Divisi TI"
+Instalasi Aplikasi,Install ebrowser
+Absensi,data attendance tgl 19 sudah sesuai
+Network Access,disable enable
+Absensi,lain kali mohon untuk memastikan data absen sudah terecord saat CI atau CO
+Gangguan CPU,"vga rusak, saat vga dilepas komputer mau tampil"
+Instalasi Aplikasi,"1. Instal zwcad beserta lisensi-nya
+2. Instal naviswork
+3. Untuk cadmatic installer ada di mapping file cadmatic"
+NAPA - Cadmatic - Nesting,selesai sesuai request
+ERP (IM4),silahkan mencoba untuk login kembali
+Instalasi Aplikasi,"1. Instal zwcad
+2. jika ada komputer yang belum diinstal bisa diinfokan ke ext 3522.
+3. saran untuk permintaan instal aplikasi bisa disertakan nama komputer-nya.
+terimakasih"
+Absensi,Human Error
+Aplikasi Office/Perkantoran,"Instal dan aktivasi office project.
+proses lama karena menunggu pembelian lisensi dari user."
+Instalasi Aplikasi,"1. Instal aplikasi zwcad di komputer DES-CAE-125 dan DES-CAE-131.
+2. Untuk Cadmatic Outfitting perlu pendaftaran hak akses user."
+Instalasi Aplikasi,Instal Cad Hul di DES-CAE-129 (Aplikasi & Viewer)
+Network Access,"PC sudah dapat IP, tapi tidak bisa akses internet krn ke blok firewall 
+"
+Absensi,jangan diulangi lagi!!!!!!!!!!!!!!!!!!!!
+Network Access,agar update windows minimal ke windows 10 untuk bisa konek ke jaringan PAL
+Instalasi Aplikasi,"1. Uninstal aplikasi yang tidak sesuai standar desain
+2. Instal aplikasi sesuai standar desain
+3. update windows
+4. join domain"
+Gangguan CPU,"1. restart laptop
+2. update windows 
+3. dicoba kembali hasil oke"
+ERP (IM4),silahkan diperiksa kembali
+Gangguan CPU,"setelah dilakukan pengecekan, masalahnya terletak pada monitornya, solusinya mengganti monitor yang lain"
+Instalasi Aplikasi,Instal dan setting driver printer HP Laser Jet 5200 TN di komputer des-cae-79
+Akses Internet,"Setting ulang jaringan, password admin tidak tahu"
+Akses Internet,"Setting ulang jaringan, problem di password admin tidak tahu"
+NAPA - Cadmatic - Nesting,"Sudah solve dengan mapping ulang Drive L, oleh Alifia divisi TI"
+Gadget IM4,"Cara:
+1. Pastikan koneksi internet terhubung
+2. Swip out aplikasi / kluar app dan masuk app lagi
+
+kalau gadget nya masih trouble, mungkin bisa dibawa IT trims"
+NAPA - Cadmatic - Nesting,Mapping L yang keliru sudah disesuaikan path nya oleh Alifia .Y dari divisi TI 
+Instalasi Aplikasi,Instal ulang VScode versi 1.97.2
+Network Access,"agar dilakukan install ulang PC biar dapat file sharing karena ada log yg nyantol di windows
+"
+Gangguan OS,sistem sudah diperbaiki
+Gangguan Aplikasi Pendukung,"1. Reset user
+2. disk cleanup"
+Gangguan CPU,Setting sharing printer
+Gangguan CPU,Sudah menghubungi user untuk membawa komputernya ke TI. Dan info terakhir komputer masih bisa digunakan.
+Gadget IM4,"silhakan log out kmudian login lagi 
+terima kasih"
+NAPA - Cadmatic - Nesting,Sudah di install oleh Alifia .Y dari divisi TI
+Network Access,"untuk penarikan kabel dilakukan oleh user, Tim TI melakukan crimping dan setting pada switch"
+Instalasi Aplikasi,Install aplikasi nitro
+ERP (IM4),Data attendance sudah sesuai
+ERP (IM4),mohon di cek reporting saat setelah absen
+ERP (IM4),"untuk migrasi KPI silahkan koordinasi dengan PSP. 
+untuk struktur organisasi sudah sesuai silahkan dicek kembali"
+Instalasi Aplikasi,Instaler yang tersedia di Div TI Autocad 2016
+Gangguan Storage,Disk clean up komputer dan uninstall aplikasi yang tidak digunakan
+Instalasi Aplikasi,"1. Untuk pdf creator sudah terinstal
+2. untuk penamaan folder cadmatic workspace tanpa spasi"
+Absensi,Jika masih seperti ini silahkan membawa HP IM4 ke Divisi TI
+Aplikasi Office/Perkantoran,Instal WPS Officer oleh user
+Absensi,Pastikan melakukan login SSO setiap pagi dan cek geo location terlebih dahulu
+Instalasi Aplikasi,Install composer untuk menjalankan laravel di 3 komputer
+Gangguan OS,"1. Kabel SATA on board rusak.
+2. komputer tidak bisa digunakan karena tidak ada penggantin.
+3. ganti komputer tanpa harddisk dan heatsink rusak.
+4. penggantian heatsink dan penambahan harddisk
+5. instal ulang windows 10 beserta aplikasi standar office
+6. setting internet"
+Aplikasi Office/Perkantoran,"Disk clean up dan clear chace, apabila nanti masih ada kendala lemot, user perlu di reset."
+Absensi,mohon di cek repoting setiap habis absen
+Email,"sudah di aksi (penambahan storage)
+terima kasih"
+Hotspot,Jaringan kabel LAN (Intra) tidak diperbolehkan disharing(tethering)
+Hotspot,sedang ada gangguan fo moratel yg ke pwk
+NAPA - Cadmatic - Nesting,Ebrowser sudah di-update dan berjalan normal
+Network Access,"Setting Ulang dot1x, pindah jaringan dan pindah PC"
+Absensi,"silahkan diperiksa kembali, jika terjadi seperti ini lagi , silahkan langsung ke DIvisi IT untuk dilakukan pengecekan"
+Instalasi Aplikasi,"1. Instal WPS Office.
+2. Untuk office 365 bisa disediakan lisensi terlebih dahulu."
+Absensi,Silahkan diperiksa kembali
+Network Access,binding ulang mac smart TV
+Network Access,untuk material kabel LAN dan penarikan dilakukan oleh user. Untuk crimping dan setting dilakukan tim TI
+Gangguan CPU,"Sudah info ke bersangkutan melalui whatsapp untuk membawa komputer ke divisi TI. Tapi hingga sekarang 5 maret 2025 komputer belum dibawa ke TI.
+Terimakasih"
+Gadget IM4,"akun 022106735 . ini sudah pernah di tambahkan. 
+silahkan logout im4 kemudian login im4 dan login im4collab
+terima kasih"
+NAPA - Cadmatic - Nesting,Instal dan aktivasi e-browser
+Aplikasi Office/Perkantoran,"sudah di tambahkan, silahkan logout sso kemudian login lagi.
+terima kasih"
+Instalasi Aplikasi,Instal E-Browser
+Absensi,"silahkan dicek kembali, dan usahakan berangkat lebih pagi, terimakasih"
+Absensi,"silahkan logout sso dahulu, lalu kemudian login lagi. "
+Absensi,Silahkan dicek kembali
+Absensi,"silahkan logout sso dahulu, lalu kemudian login lagi. nanti otomatis im4 communicationnya login"
+Instalasi Aplikasi,Instal ulang wps  office
+Instalasi Aplikasi,Instal node.js beserta package npm
+Absensi,Silahkan di cek kembali 
+Absensi,"silahkan di cek kembali
+"
+Gadget IM4,"sudah di update, silahkan di cek kembali
+terima kasih"
+Gangguan CPU,"Setelah dilakukan pengecekan kerusakan terdapat pada ram komputer.
+komputer bisa dijalankan dengan normal menggunakan 1 ram"
+Gangguan Aplikasi Pendukung,penambahan storage partisi drive c
+Network Access,Update konfigurasi pc internet divisi desain
+Instalasi Aplikasi,"1. Instal zwcad 2023 & aktivasi
+2. Instal WPS Office"
+Instalasi Aplikasi,Instal soldworks beserta aktivasi lisensinya
+Network Access,Penambahan switch unmanage & setup 7 configurasi switch
+Network Access,"keblok otomatis karena terinfeksi virus
+"
+Gadget IM4,"mungkin gadgetnya bisa di bawa ke IT Pak, karena ada settingan di dalamnya yang ke disable pak
+terima kasih"
+Absensi,Mohon untuk datang tidak datang terlalu mepet untuk spare waktu absen
+Network Access,port switch rusak
+Sharing Printer,Cek ulang settingan printer
+Gangguan OS,Setting akses internet pada user
+Network Access,"susuai hasil monitor kami Tim Jaringan bahwa hari ini tidak ada permasalahan terhadap jaringan IM4Brain, untuk masalah absensi silakan menghubungi Tim aplikasi (IM4). Terima kasih
+"
+Instalasi Aplikasi,Instal aplikasi ansys 2024 R2 di PC DES-CAE-129 & DES-CAE-32
+Gangguan Aplikasi Pendukung,"Melakukan setup share drive dengan proteksi spesifik kebutuhan.
+Dilakukan pengujian, hasil OKE."
+Email,sudah di tambahkan email pal ke outllook
+Instalasi Aplikasi,Install Zwcad dan aktivasi lisensi
+Absensi,"attendandce tgl 4 FEBRUARI 2025 sudah di perbaiki.
+mohon untuk menuliskan deskripsi permasalahan secara benar, tgl 1 JANUARI 2025 bukan hari selasa dan itu hari libur"
+Absensi,"silahkan dicek kembali
+"
+Gangguan OS,"1. Backup Data
+2. Instal ulang windows
+3. Update windows
+4. Instal aplikasi standar office"
+ERP (IM4),"sudah ditambahkan akses menu project report data untuk update s-curve. 
+untuk mengakses dashboard silahkan login menggunakan 
+username : viewonly
+password : viewonly123"
+ERP (IM4),"wbs yang digunakan sesuai dengan WO, yaitu Level 5 1-W000-NC Key Plan MO bukan 14110"
+Network Access,keblok otomatis karena terdeteksi terinfeksi virus
+Absensi,silahkan membuat sakit dengan surat dokter dari atasan langsung
+Gangguan CPU,"Setelah dilakukan pengecekan perangkat, kerusakan komputer pada motherboardnya.
+jika komputer sudah tidak digunakan bisa diambil.
+Terimakasih "
+Aplikasi Office/Perkantoran,"lisensi akun microsoft tidak bisa digunakan karena akun microsoft terkunci dengan sendirinya,
+dan sudah dicoba pemulihan akun dengan segala cara tapi tidak bisa."
+Gangguan I/O Peripheral,"1. Komputer tidak terdapat harddisk
+2. Pemasangan harddisk
+3. penggantian power supply
+4. instal ulang windows beserta aplikasi standar office"
+Gangguan CPU,"1. Pembersihan komputer
+2. Komputer tidak bisa nyala karena pasta processor habis dan perlu ditambahkan.
+3. Tes komputer, menyala dengan baik
+4.  Disk Clean Up komputer
+
+Proses perbaikan lama karena listrik mati, ada perbaikan ruangan di Div TI"
+Absensi,Data CI sudah di sesuaikan silahkan di cek kembali
+Absensi,untuk selanjutnya tidak dapat dilakukan perbaikan apabila tidak terdapat error sysytem
+Instalasi Aplikasi,Instal software xampp versi terbaru dan cmake
+Instalasi Aplikasi,"1. Instal software Inno setup
+2. untuk NSIS tidak bisa diinstal karena instaler terdeteksi virus"
+Network Access,cripping kabel & setup serta configurasi dot1X
+Gangguan CPU,"1. Dilakukan pengecekan Harddisk, kondisi kesehatan masih 99%.
+2. Windows corrupted.
+3. Instal ulang windows beserta aplikasi standar office.
+4. Update windows
+5. Disk Clean Up
+6. Setting jaringan"
+Absensi,"Cek di Log 7.26, sudah dilakukan pembetulan absen"
+Absensi,"silahkan di periksa kembali, jika ada blank putih silahkan di close app kemudian login ulang dan mencari lokasi lain yang tidak susah sinyal"
+NAPA - Cadmatic - Nesting,Sudah di buatkan
+Absensi,sudah dilakukan pembetulan cek historical login sso pukul 7:21
+Instalasi Aplikasi,Instal ansys dan aktivasi
+NAPA - Cadmatic - Nesting,Sudah d restore
+Instalasi Aplikasi,Instal python versi 3.10
+Absensi,"Manager sudah ada, bisa di coba kembali"
+Absensi,data attendance sudah di sesuaikan
+Absensi,"silahkan diperiksa kembali, mohon untuk mengecek reporting setelah absen agar tidak terjadi seperti ini lagi, dan jika ada error silahkan melampirkan bukti screenshot saat error terjadi"
+Absensi,mohon langsung melakukan absen saat tiba di pt pal karena untuk selanjutnya tidak perbaikan data apabila lupa
+Instalasi Aplikasi,Instal bahasa pemrograman rust
+Gangguan CPU,- Unjoin komputerdan open disk 250GB
+Gangguan CPU,"1. Pasta processor habis (Penambahan pasta processor)
+2. Pembersihan PC
+3. Update Windows
+4. Setting komputer join domain
+5. Disk Clean Up"
+Aplikasi Internal PAL,Sesuai dengan ketentuan desain untuk komputer tidak memenuhi syarat instalasi E-Browser. (komputer user mendapatkan akses internet)
+NAPA - Cadmatic - Nesting,Project telah dibuat dan siap digunakan 
+NAPA - Cadmatic - Nesting,Perbaikan kabel jaringan 
+Instalasi Aplikasi,Instal sowftware ansys dan solidwork
+Instalasi Aplikasi,Install Zwcad 2023 & aktivasi lisensi
+Gangguan CPU,"- Scan disk
+- Disk clean up drive C
+- Update windows"
+Absensi,karena tidak dipermasalahkan oleh HCM
+Gangguan CPU,"1. Setelah dilakukan pengecekan pada perangkat keras komputer, kerusakan terdapat pada RAM dan perlu penggantian.
+2. Penambahann pasta processor yang sudah habis
+3. Disk Clean Up
+4. Update Windows
+5. Proses penyelesaian lama karena komputer tidak segera dikirim ke TI langsung setelah pembuatan tiket, proses pengecekan lama karena di cek satu persatu, dan menunggu pengganti RAM yang baru dari user."
+Aplikasi Internal PAL,Silahkan di cek kembali
+Network Access,"Settingan dot1X lepas, setting ulang"
+NAPA - Cadmatic - Nesting,Telah update license lokal
+ERP (IM4),Berikut manual book untuk  install IM4 Communication versi desktop. Apabila ada kesulitan silahkan hubungi no ext 3512 atau langsung datang ke ruang IM4. Terimakasih.  
+Gangguan I/O Peripheral,"Dilakukan pengecekan pada kabel monitor dan vga masih belum tampil.
+Setelah dilakukan pengecekan yang bermasalah pada RAM-nya (pembersihan RAM)
+Proses perbaikan selesai dan cek komputer hasil OKE."
+Network Access,User memang tidak mendapatkan akses drive J karena user mendapatkan akses internet
+Layar kedut,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+VPN nge-err,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+PC nge-lag,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+System nge-err,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Notifikasi ga muncul,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Layar kedut,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Absen kedut,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Absen kedut,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+System nge-err,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Update ngegagal,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Outlook nge-lambat,"Reset konfigurasi VPN, kalo masih error kita remote."
+File ilang (kedut),"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Absen kedut,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Software ngadat,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Update ngegagal,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Notifikasi ga muncul,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Printer nge-jam,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Laptop kedut-kedut,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Email gak masuk,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Aplikasi ngehang,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+WiFi susah connect,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Notifikasi ga muncul,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+VPN nge-err,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+VPN nge-err,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Printer nge-jam,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Software ngadat,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Notifikasi ga muncul,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+System nge-err,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Update ngegagal,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Internet lemot,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Password ga nge-respond,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Koneksi putus-putus (lemot),"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+WiFi susah connect,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Login ga kenal,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Laptop kedut-kedut,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+System nge-err,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Printer nge-jam,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+WiFi susah connect,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Printer nge-jam,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+PC nge-lag,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Printer nge-jam,"Reset konfigurasi VPN, kalo masih error kita remote."
+Laptop kedut-kedut,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Layar kedut,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Printer nge-jam,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Notifikasi ga muncul,"Reset konfigurasi VPN, kalo masih error kita remote."
+Software ngadat,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Laptop kedut-kedut,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+WiFi susah connect,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Printer nge-jam,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Laptop kedut-kedut,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Notifikasi ga muncul,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Printer nge-jam,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+File ilang (kedut),"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+PC nge-lag,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Absen kedut,"Reset konfigurasi VPN, kalo masih error kita remote."
+Update ngegagal,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Email gak masuk,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Laptop kedut-kedut,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Laptop kedut-kedut,"Reset konfigurasi VPN, kalo masih error kita remote."
+Koneksi putus-putus (lemot),"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Internet lemot,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+WiFi susah connect,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Aplikasi ngehang,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Internet lemot,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Aplikasi ngehang,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Laptop kedut-kedut,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+System nge-err,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Password ga nge-respond,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+File ilang (kedut),"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Notifikasi ga muncul,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Login ga kenal,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Absen kedut,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+System nge-err,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+PC nge-lag,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Login ga kenal,"Reset konfigurasi VPN, kalo masih error kita remote."
+Layar kedut,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Password ga nge-respond,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Notifikasi ga muncul,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Software ngadat,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+PC nge-lag,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Update ngegagal,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+PC nge-lag,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Update ngegagal,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Internet lemot,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Login ga kenal,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Internet lemot,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+System nge-err,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Outlook nge-lambat,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+VPN nge-err,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Koneksi putus-putus (lemot),"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+PC nge-lag,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Update ngegagal,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+File ilang (kedut),"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Internet lemot,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Laptop kedut-kedut,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Layar kedut,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Notifikasi ga muncul,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Koneksi putus-putus (lemot),"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+PC nge-lag,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Password ga nge-respond,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+PC nge-lag,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Update ngegagal,"Reset konfigurasi VPN, kalo masih error kita remote."
+Outlook nge-lambat,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+System nge-err,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+File ilang (kedut),"Reset konfigurasi VPN, kalo masih error kita remote."
+File ilang (kedut),"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Password ga nge-respond,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+File ilang (kedut),"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Password ga nge-respond,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Printer nge-jam,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Aplikasi ngehang,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+WiFi susah connect,"Reset konfigurasi VPN, kalo masih error kita remote."
+VPN nge-err,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Software ngadat,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Notifikasi ga muncul,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Layar kedut,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Email gak masuk,"Reset konfigurasi VPN, kalo masih error kita remote."
+File ilang (kedut),"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+System nge-err,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Login ga kenal,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Printer nge-jam,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Layar kedut,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Login ga kenal,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Internet lemot,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Layar kedut,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Software ngadat,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Email gak masuk,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+VPN nge-err,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Layar kedut,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Email gak masuk,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Outlook nge-lambat,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Printer nge-jam,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Login ga kenal,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Software ngadat,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Update ngegagal,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Aplikasi ngehang,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+WiFi susah connect,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Layar kedut,"Reset konfigurasi VPN, kalo masih error kita remote."
+Laptop kedut-kedut,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Update ngegagal,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Password ga nge-respond,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Koneksi putus-putus (lemot),"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Outlook nge-lambat,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Email gak masuk,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Outlook nge-lambat,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Layar kedut,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Layar kedut,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+WiFi susah connect,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Password ga nge-respond,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Update ngegagal,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+VPN nge-err,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Printer nge-jam,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+PC nge-lag,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+WiFi susah connect,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Notifikasi ga muncul,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Outlook nge-lambat,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Outlook nge-lambat,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Update ngegagal,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Absen kedut,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Aplikasi ngehang,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Software ngadat,"Reset konfigurasi VPN, kalo masih error kita remote."
+Printer nge-jam,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Login ga kenal,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Internet lemot,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Notifikasi ga muncul,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+System nge-err,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Absen kedut,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Koneksi putus-putus (lemot),"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Internet lemot,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+System nge-err,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Printer nge-jam,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Aplikasi ngehang,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Password ga nge-respond,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Aplikasi ngehang,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Layar kedut,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Outlook nge-lambat,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Laptop kedut-kedut,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Laptop kedut-kedut,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Absen kedut,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Laptop kedut-kedut,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Aplikasi ngehang,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Layar kedut,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Login ga kenal,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Absen kedut,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Notifikasi ga muncul,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Email gak masuk,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Absen kedut,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Password ga nge-respond,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+File ilang (kedut),"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Outlook nge-lambat,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Aplikasi ngehang,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Aplikasi ngehang,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+System nge-err,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Internet lemot,"Reset konfigurasi VPN, kalo masih error kita remote."
+Internet lemot,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Absen kedut,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Email gak masuk,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Login ga kenal,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Password ga nge-respond,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Absen kedut,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Email gak masuk,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Koneksi putus-putus (lemot),"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Internet lemot,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+File ilang (kedut),"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+File ilang (kedut),"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+File ilang (kedut),"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+File ilang (kedut),"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Koneksi putus-putus (lemot),"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Printer nge-jam,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Outlook nge-lambat,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Koneksi putus-putus (lemot),"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Update ngegagal,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Outlook nge-lambat,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+PC nge-lag,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+System nge-err,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+File ilang (kedut),"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Email gak masuk,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Absen kedut,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+VPN nge-err,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Software ngadat,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+Aplikasi ngehang,"Reset konfigurasi VPN, kalo masih error kita remote."
+VPN nge-err,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Laptop kedut-kedut,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+WiFi susah connect,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+VPN nge-err,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+WiFi susah connect,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Aplikasi ngehang,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Laptop kedut-kedut,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Email gak masuk,"Reset password sementara dan buat yang baru, nanti dimintain konfirmasi."
+Outlook nge-lambat,"Reset profile Outlook dan re-sync mailbox, nanti saya bantu langkahnya."
+Koneksi putus-putus (lemot),"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+WiFi susah connect,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+PC nge-lag,"Reset konfigurasi VPN, kalo masih error kita remote."
+VPN nge-err,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Software ngadat,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Internet lemot,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Koneksi putus-putus (lemot),"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Koneksi putus-putus (lemot),"Reset konfigurasi VPN, kalo masih error kita remote."
+VPN nge-err,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Outlook nge-lambat,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Koneksi putus-putus (lemot),"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Software ngadat,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+Update ngegagal,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Login ga kenal,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Login ga kenal,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Password ga nge-respond,"Bersihin sensor printer dan coba ganti kertas, kalau masih macet hubungi teknisi."
+Email gak masuk,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+VPN nge-err,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Software ngadat,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Notifikasi ga muncul,"Coba restart dulu, kalo tetep ngehang kita jadwalkan pengecekan onsite."
+VPN nge-err,"Reset konfigurasi VPN, kalo masih error kita remote."
+PC nge-lag,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+PC nge-lag,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+WiFi susah connect,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Login ga kenal,"Update aplikasi ke versi terbaru, kalo masih ada error capture screenshot."
+System nge-err,"Reset konfigurasi VPN, kalo masih error kita remote."
+Login ga kenal,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Absen kedut,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+File ilang (kedut),"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+WiFi susah connect,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+VPN nge-err,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+PC nge-lag,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Password ga nge-respond,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Outlook nge-lambat,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Login ga kenal,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Software ngadat,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+Software ngadat,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Internet lemot,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+System nge-err,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Password ga nge-respond,"Reset konfigurasi VPN, kalo masih error kita remote."
+Email gak masuk,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Email gak masuk,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Absen kedut,"Reset absen session dan minta user login ulang, kalau masih error kabarin."
+Layar kedut,"Coba clear cache dan disable extension, kalo masih kedut kabarin."
+WiFi susah connect,"Reset absen session dan minta user login ulang, kalau masih error kabari yan."
+Internet lemot,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Aplikasi ngehang,"Kita reset koneksi WiFi dan periksa access point, ditunggu konfirmasi."
+Aplikasi ngehang,"Coba restart dulu, kalo tetep ngehang kita (IT) jadwalkan pengecek dulu yaan onsite."
+Password ga nge-respond,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Koneksi putus-putus (lemot),"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Software ngadat,"Restart dulu, kalo masih lemot kasih tau buat kita (IT) cek dulu ya lebih lanjut."
+Email gak masuk,"Coba clear cache dan disable extension, kalo masih kedut kabari yan."
+Notifikasi ga muncul,"Reset konfigurasi VPN, kalo masih error kita (IT) remote."
+Update ngegagal,"Restart dulu, kalo masih lemot kasih tau buat kita cek lebih lanjut."
+Koneksi putus-putus (lemot),"Reset absen session dan minta user login ulang, kalau masih error kabari yan."

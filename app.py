@@ -1,124 +1,186 @@
+# Impor library yang diperlukan
 import pandas as pd
-from flask import Flask, request, render_template, g
-from sklearn.feature_extraction.text import TfidfVectorizer
-# --- IMPORT BARU UNTUK CLUSTERING ---
-from sklearn.cluster import KMeans
-from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
-import os
-import glob
+from flask import Flask, request, render_template
 
+# Impor komponen machine learning dari scikit-learn
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.cluster import KMeans
+from sklearn.metrics.pairwise import cosine_similarity # Untuk mencari kemiripan
+
+# --- KONFIGURASI APLIKASI ---
 app = Flask(__name__)
 
-# --- KONFIGURASI PENTING ---
-# Tentukan berapa banyak kategori otomatis yang ingin dibuat oleh mesin.
-# Anda bisa bereksperimen dengan angka ini (misalnya 4, 5, atau 6).
-K_CLUSTERS = 5
+# --- VARIABEL GLOBAL DAN KONFIGURASI ---
+model_assets = {}
 
-def train_model():
-    """Melatih model untuk membuat kategori otomatis (clustering) dari data."""
-    path = 'training_data'
-    all_files = glob.glob(os.path.join(path, "*.csv"))
-    if not all_files:
-        print(f"ERROR: Tidak ada file CSV di folder '{path}'!")
-        return None
+# Kamus untuk mendeteksi kata kunci ambigu dan pilihan yang ditawarkan
+AMBIGUOUS_KEYWORDS = {
+    'lemot': ['Internet', 'Device'],
+    'lambat': ['Internet', 'Device'],
+    'tidak bisa connect': ['Internet', 'Aplikasi'],
+    'tidak terhubung': ['Internet', 'Device'],
+    'error': ['Aplikasi', 'Sistem Operasi'],
+    'mati': ['Device', 'Listrik'],
+    'ngehang': ['Aplikasi', 'Device'],
+    'macet': ['Aplikasi', 'Device']
+}
 
+# --- FUNGSI UTAMA MACHINE LEARNING ---
+def train_unsupervised_model():
+    """
+    Membaca dataset, melatih model K-Means, dan menyiapkan aset
+    untuk prediksi kategori serta rekomendasi solusi.
+    """
     try:
-        df = pd.concat([pd.read_csv(f) for f in all_files], ignore_index=True)
-        print(f"Berhasil menggabungkan {len(all_files)} file CSV.")
-    except Exception as e:
-        print(f"Error saat membaca file CSV: {e}")
-        return None
-    
-    # Sekarang kita hanya butuh 'gangguan' dan 'solusi'
-    df.dropna(subset=['gangguan', 'solusi'], inplace=True)
-    if 'gangguan' not in df.columns or 'solusi' not in df.columns:
-        print("ERROR: Pastikan semua file CSV memiliki kolom 'gangguan' dan 'solusi'")
+        # 1. Membaca dataset
+        df = pd.read_csv('merged_clean.csv')
+        df.dropna(subset=['gangguan', 'solusi'], inplace=True)
+        df['gangguan'] = df['gangguan'].astype(str)
+        df['solusi'] = df['solusi'].astype(str)
+        problems = df['gangguan'].tolist()
+        print(f"Dataset 'merged_clean.csv' berhasil dimuat dengan {len(problems)} data.")
+    except FileNotFoundError:
+        print("Error: File 'merged_clean.csv' tidak ditemukan!")
         return None
 
-    X_problems = df['gangguan']
-    
-    # 1. Ubah teks menjadi vektor angka (tetap sama)
-    vectorizer = TfidfVectorizer(ngram_range=(1, 2), stop_words=['yang', 'di', 'dan', 'ke', 'ini', 'itu'])
-    tfidf_matrix = vectorizer.fit_transform(X_problems)
+    # 2. Vectorization
+    vectorizer = TfidfVectorizer(
+        ngram_range=(1, 2),
+        stop_words=['yang', 'di', 'dan', 'tidak', 'saya', 'komputer', 'laptop', 'bisa', 'mau', 'itu', 'ini', 'ke', 'dari']
+    )
+    tfidf_matrix = vectorizer.fit_transform(problems)
+    print("Teks berhasil diubah menjadi vektor TF-IDF.")
 
-    # 2. Latih model K-Means untuk membuat grup
-    print(f"Memulai training model K-Means dengan {K_CLUSTERS} klaster...")
-    kmeans_model = KMeans(n_clusters=K_CLUSTERS, random_state=42, n_init=10)
+    # 3. Clustering
+    num_clusters = 5
+    kmeans_model = KMeans(n_clusters=num_clusters, random_state=42, n_init='auto')
     kmeans_model.fit(tfidf_matrix)
-    print("Model K-Means berhasil dilatih.")
-
-    # Tambahkan label klaster ke dataframe untuk filtering nanti
     df['cluster'] = kmeans_model.labels_
-    
-    model_assets = {
-        'kmeans_model': kmeans_model,
+    print(f"Model K-Means berhasil dilatih dan membuat {num_clusters} klaster.")
+
+    # 4. Memberi Nama Klaster Secara Otomatis
+    cluster_names = {}
+    terms = vectorizer.get_feature_names_out()
+    order_centroids = kmeans_model.cluster_centers_.argsort()[:, ::-1]
+    for i in range(num_clusters):
+        top_terms = [terms[ind] for ind in order_centroids[i, :3]]
+        cluster_name = ' & '.join(top_terms).replace('_', ' ').title()
+        cluster_names[i] = f"Kategori: {cluster_name}"
+    print("Nama klaster dinamis berhasil dibuat.")
+
+    # 5. Simpan semua aset
+    return {
         'vectorizer': vectorizer,
+        'kmeans_model': kmeans_model,
+        'cluster_names': cluster_names,
         'dataframe': df
     }
+
+# --- FUNGSI UNTUK ANALISIS AWAL ---
+def analyse_initial_problem(description, assets):
+    """
+    Menganalisis masalah awal. Jika ambigu, tawarkan pilihan.
+    Jika tidak, langsung berikan rekomendasi solusi.
+    """
+    # 1. Cek apakah ada kata kunci ambigu dalam deskripsi masalah
+    description_lower = description.lower()
+    for keyword, choices in AMBIGUOUS_KEYWORDS.items():
+        if keyword in description_lower:
+            # Jika ditemukan, kembalikan daftar pilihan, bukan solusi
+            return None, [], choices
+
+    # 2. Jika tidak ambigu, lanjutkan dengan logika clustering
+    vectorizer = assets['vectorizer']
+    kmeans_model = assets['kmeans_model']
+    cluster_names = assets['cluster_names']
+    full_df = assets['dataframe']
+
+    new_vec = vectorizer.transform([description])
+    predicted_cluster_id = kmeans_model.predict(new_vec)[0]
+    predicted_category = cluster_names[predicted_cluster_id]
+
+    relevant_df = full_df[full_df['cluster'] == predicted_cluster_id]
+    recommended_solutions = []
     
-    return model_assets
+    if not relevant_df.empty:
+        relevant_problems_matrix = vectorizer.transform(relevant_df['gangguan'])
+        cosine_similarities = cosine_similarity(new_vec, relevant_problems_matrix).flatten()
+        top_indices = cosine_similarities.argsort()[::-1][:3]
+        solutions = relevant_df.iloc[top_indices]['solusi'].tolist()
+        unique_solutions = list(dict.fromkeys(solutions))
+        recommended_solutions = unique_solutions
 
-def get_model():
-    if 'model_assets' not in g:
-        g.model_assets = train_model()
-    return g.model_assets
+    # Kembalikan kategori, solusi, dan list pilihan kosong
+    return predicted_category, recommended_solutions, []
 
+# --- FUNGSI UNTUK MENCARI SOLUSI SPESIFIK BERDASARKAN PILIHAN ---
+def get_specific_solutions(original_problem, choice, assets):
+    """Mencari solusi yang lebih terfokus setelah user memilih kategori."""
+    full_df = assets['dataframe']
+    vectorizer = assets['vectorizer']
+    
+    # Filter dataframe berdasarkan kata kunci dari pilihan user
+    search_term = choice.lower()
+    filtered_df = full_df[
+        full_df['gangguan'].str.contains(search_term, case=False) | 
+        full_df['solusi'].str.contains(search_term, case=False)
+    ].copy()
+
+    recommended_solutions = []
+    if not filtered_df.empty:
+        # Hitung kemiripan masalah user dengan data yang sudah difilter
+        new_vec = vectorizer.transform([original_problem])
+        filtered_problems_matrix = vectorizer.transform(filtered_df['gangguan'])
+        cosine_similarities = cosine_similarity(new_vec, filtered_problems_matrix).flatten()
+        
+        # Ambil 3 solusi teratas
+        top_indices = cosine_similarities.argsort()[::-1][:3]
+        solutions = filtered_df.iloc[top_indices]['solusi'].tolist()
+        recommended_solutions = list(dict.fromkeys(solutions))
+        
+    return recommended_solutions
+
+# --- ROUTE UNTUK HALAMAN WEB ---
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    prediction_result = None
+    solution_list = []
+    choice_list = []
+    user_problem = ""
+    
     if request.method == 'POST':
-        model_assets = get_model()
-        if model_assets is None:
-            return "Error: Model tidak dapat dilatih. Periksa file CSV.", 500
+        # Cek apakah ini request dari form pilihan atau form awal
+        if 'pilihan' in request.form:
+            # --- ALUR 2: USER SUDAH MEMILIH KATEGORI ---
+            user_problem = request.form.get('masalah_asli', '')
+            user_choice = request.form.get('pilihan', '')
             
-        masalah_deskripsi = request.form['masalah']
-        if not masalah_deskripsi:
-            return render_template('index.html', error="Deskripsi masalah tidak boleh kosong!")
-        
-        kmeans_model = model_assets['kmeans_model']
-        vectorizer = model_assets['vectorizer']
-        full_df = model_assets['dataframe']
-        
-        # 1. Ubah masalah baru menjadi vektor
-        new_problem_vector = vectorizer.transform([masalah_deskripsi])
-        
-        # 2. Prediksi nomor klaster untuk masalah baru
-        predicted_cluster = kmeans_model.predict(new_problem_vector)[0]
-        
-        # 3. Filter DataFrame berdasarkan klaster yang diprediksi
-        relevant_df = full_df[full_df['cluster'] == predicted_cluster]
-        
-        recommended_solutions_list = []
-        fallback_message = ""
-        
-        if not relevant_df.empty:
-            # 4. Cari kemiripan di dalam klaster yang relevan
-            relevant_problems_matrix = vectorizer.transform(relevant_df['gangguan'])
-            cosine_similarities = cosine_similarity(new_problem_vector, relevant_problems_matrix).flatten()
-            
-            CONFIDENCE_THRESHOLD = 0.05
-            relevant_indices = np.where(cosine_similarities > CONFIDENCE_THRESHOLD)[0]
-            
-            if relevant_indices.size > 0:
-                solutions = relevant_df.iloc[relevant_indices]['solusi'].tolist()
-                unique_solutions = list(dict.fromkeys(solutions))
-                recommended_solutions_list = unique_solutions
-        
-        if not recommended_solutions_list:
-            fallback_message = "Maaf, tidak ditemukan solusi yang relevan di data historis."
+            prediction_result = f"Kategori Pilihan: {user_choice}"
+            solution_list = get_specific_solutions(user_problem, user_choice, model_assets)
 
-        return render_template(
-            'result.html', 
-            masalah=masalah_deskripsi, 
-            kategori=f"Klaster {predicted_cluster} (Dibuat Otomatis)",
-            rekomendasi_list=recommended_solutions_list,
-            fallback=fallback_message
-        )
-        
-    return render_template('index.html')
+        else:
+            # --- ALUR 1: USER BARU MENGIRIM MASALAH ---
+            user_problem = request.form.get('masalah', '')
+            if user_problem.strip():
+                prediction_result, solution_list, choice_list = analyse_initial_problem(user_problem, model_assets)
+            else:
+                prediction_result = "Mohon masukkan deskripsi masalah Anda."
+            
+    # Kirim semua variabel yang mungkin ke template HTML
+    return render_template('index.html', 
+                           kategori=prediction_result, 
+                           rekomendasi=solution_list,
+                           pilihan_list=choice_list,
+                           masalah=user_problem)
 
+# --- BLOK EKSEKUSI UTAMA ---
 if __name__ == '__main__':
-    with app.app_context():
-        get_model() 
-    app.run(debug=True)
+    print("--- Memulai Pelatihan Model Help Desk Cerdas ---")
+    model_assets = train_unsupervised_model()
+    if model_assets:
+        print("--- Pelatihan Model Selesai. Aplikasi Siap Digunakan. ---")
+        app.run(debug=True)
+    else:
+        print("--- Gagal melatih model. Aplikasi tidak dapat dijalankan. ---")
 
